@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on projects (Management Websites, NLP and Object Detection)<br>👯 I’m looking to collaborate on projects related to RAG or Real-time Object detection<br>🤝 I’m looking for help with internships <br>🌱 I’m currently learning deep learning (CV, NLP, ...)<br>💬 Ask me about anything if you are from HUST<br>
+🔭 I’m currently working on projects (None)<br>👯 I’m looking to collaborate on projects related to RAG or Real-time Object detection<br>🤝 I’m looking for help with internships <br>🌱 I’m currently learning deep learning (CV, NLP, ...)<br>💬 Ask me about anything if you are from HUST<br>
 
 
 ## 🌐 Socials:
